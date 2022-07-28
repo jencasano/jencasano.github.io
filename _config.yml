@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jenilyn 'Jen' A. Casano"
+  name             : "Jenilyn A. Casano"
   avatar           : "profile.png"
   bio              : "ADMU DISCS & ALLS"
   location         : "Philippines"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=Of1I-18AAAAJ"
+  email            : "jagapito@ateneo.edu"   
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
